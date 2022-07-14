@@ -1,3 +1,5 @@
-# Python Chat
+### Master Python Chat
 
-Projeto desenvolvido no treinamento master python
+
+Implementação de um chat utilizando python para a consolidação dos assuntos estudados no curso master python
+
